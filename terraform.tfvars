@@ -1,2 +1,2 @@
 
-Instance_variables1 = "t2.nano"
+Instance_variables1 = "t2.micro"
