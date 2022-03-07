@@ -24,6 +24,7 @@ resource "aws_instance" "app_server" {
   instance_type = var.Instance_variables1
 
 
+
   tags = {
     Name = "myserver-${local.service_name}"
   }
